@@ -1,8 +1,10 @@
 {
   "urlRandomness": "8b-nwd",
-  "hostType": "tunnel",
+  "hostType": "lan",
   "lanType": "ip",
   "dev": true,
   "minify": false,
-  "https": false
+  "https": false,
+  "scheme": null,
+  "devClient": false
 }
